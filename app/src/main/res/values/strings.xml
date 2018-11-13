@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="t">TRUE</string>
+    <string name="f">FALSE</string>
+    <string name="msg">Is New Delhi capital of India</string>
+    <string name="correct">CORRECT!</string>
+    <string name="incorrect">INCORRECT!</string>
+</resources>
